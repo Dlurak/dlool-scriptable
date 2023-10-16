@@ -10,4 +10,10 @@ This widget displays the newest homework for a given class. It is comparable to 
 
 ## Examples
 
-Images will be avaliable in the near future.
+![Error state](./assets/error.png)
+
+This can happen if the script is configured incorrectly or if there is a error when fetching the data e.g. because your device is not connected to the internet.
+
+![Normal state](./assets/success.png)
+
+This is the normal state of the widget. It shows the newest homework for the given class.
